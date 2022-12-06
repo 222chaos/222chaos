@@ -4,7 +4,10 @@
 ### On Github 
 
 [![](https://activity-graph.herokuapp.com/graph?username=222chaos&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-![222chaos's github stats](https://github-readme-stats.vercel.app/api?username=222chaosy&show_icons=true&theme=vue)
+![222chaos's github stats](https://github-readme-stats.vercel.app/api?username=222chaos&show_icons=true&theme=vue)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=222chaos&langs_count=6)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=222chaos&layout=compact&langs_count=6)
 
 <!--
 **222chaos/222chaos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
