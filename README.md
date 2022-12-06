@@ -1,4 +1,10 @@
-### Hi there 👋
+<img align="right" src="https://count.getloli.com/get/@:Minori-ty?theme=rule34">
+### 🌈 Hi there 👋👋👋
+
+### On Github 
+
+[![](https://activity-graph.herokuapp.com/graph?username=222chaos&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![222chaos's github stats](https://github-readme-stats.vercel.app/api?username=Minori-ty&show_icons=true&theme=vue)
 
 <!--
 **222chaos/222chaos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
