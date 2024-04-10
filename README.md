@@ -4,7 +4,7 @@
 
 ### On Github
 
-This is my contributions.
+Here are my contributions.
 <picture>
 
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/222chaos/222chaos/output/github-contribution-grid-snake-dark.svg">
