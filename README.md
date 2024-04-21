@@ -22,10 +22,8 @@
 <div align="center" ><img order-radius="100px" src="https://npm.elemecdn.com/anzhiyu-assets/image/common/github-info/Knock-Code.gif"/></div>
 <br>
 
-[![](https://activity-graph.herokuapp.com/graph?username=222chaos&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=222chaos&langs_count=6)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=222chaos&layout=compact&langs_count=6)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=222chaos)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=222chaos&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 - 🔭 I’m currently working on ...
