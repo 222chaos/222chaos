@@ -56,12 +56,6 @@
 
 <div align="center"><img src="https://cdn.cbd.int/anzhiyu-assets@1.0.11/image/common/github-info/personal-homepage-banner.jpg" /></div>
 
-<!-- 动态打字效果 -->
-<h1 align="center">
-  <a href="https://blog.anheyu.com/">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=生活明朗，万物可爱.;console.log(%22Hello%EF%BC%8Cworld%22)">
-  </a>
-</h1>
 <br>
 <!-- github 等级-->
 
