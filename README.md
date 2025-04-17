@@ -60,7 +60,6 @@
 <!-- github 等级-->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=222chaos)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=222chaos&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 - 🔭 I’m currently working on ...
