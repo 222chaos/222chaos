@@ -1,6 +1,3 @@
-<!-- 敲代码的图片 -->
-<div align="center" ><img order-radius="100px" src="https://npm.elemecdn.com/anzhiyu-assets/image/common/github-info/Knock-Code.gif"/></div>
-<br
 <picture>
 <!-- 贪吃蛇contributions -->
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/222chaos/222chaos/output/github-contribution-grid-snake-dark.svg">
