@@ -5,6 +5,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/222chaos/222chaos/output/github-contribution-grid-snake.svg">
 </picture>
 
+<!--
 # 🙋 Hello
 
 欢迎来到我的主页 😝，github 是一个很有魅力的地方 🙌，有许许多多的大佬在这里活跃，咕咕 ✋~
@@ -53,7 +54,8 @@
 
 <div align="center"><img src="https://cdn.cbd.int/anzhiyu-assets@1.0.11/image/common/github-info/personal-homepage-banner.jpg" /></div>
 
-<br>
+<br> -->
+
 <!-- github 等级-->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=222chaos)](https://github.com/anuraghazra/github-readme-stats)
